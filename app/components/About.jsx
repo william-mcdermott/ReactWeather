@@ -8,7 +8,7 @@ var About = (props) => {
         This is a weather application built on React. I have built this for the Complete React Web App Developer Course
       </p>
       <p>
-        Here are some of the tools I used & my sister is an Arschloch
+        Here are some of the tools I used
       </p>
       <ul>
         <li>
